@@ -1,3 +1,19 @@
+WordPress Website on EC2
+This is my second website, manually deployed using WordPress on an EC2 instance.
+
+EC2 IP: http://52.23.241.85/wordpress
+I manually installed Apache, PHP, MariaDB, and WordPress
+Configured the database in wp-config.php
+Linked the WordPress files to my public IP
+📸 Screenshots
+Screenshots showing:
+
+SSH login to EC2
+Apache & PHP install
+MariaDB install & configuration
+WordPress setup
+Site live in browser
+
 This folder contains documentation and screenshots for my third website version, created using WordPress manually installed on an AWS EC2 instance. The site was configured with SSL using Certbot and linked to a DuckDNS domain. Despite some challenges with image uploads, database credentials, and the browser showing “Not Secure,” I successfully resolved the issues by fixing file permissions and reconfiguring setup details. This version demonstrates my understanding of CMS-based development, server setup, file ownership, and basic cybersecurity practices.
 Started with a custom HTML website using a template from HTML5 UP.
 
