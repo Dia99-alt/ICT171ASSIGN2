@@ -19,3 +19,6 @@ This is my first website, manually built with HTML and CSS and hosted on AWS EC2
 - HTML files in `/var/www/html`
 - Domain + SSL active
 - Site open in browser
+
+- Reference
+- HTML5 UP. (n.d.). Massively. https://html5up.net/massively
